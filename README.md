@@ -1,3 +1,3 @@
 # UPC List Builder Releases
 
-Public signed Android releases for UPC List Builder.
+Public signed Android updater payload. Source code remains private.

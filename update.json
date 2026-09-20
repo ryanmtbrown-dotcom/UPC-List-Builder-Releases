@@ -1,7 +1,7 @@
 {
-  "version": "1.38",
+  "version": "1.39",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "490ec1815bca730476008b9198387c53d12305230f7e408fc6ce5bd30db3e438",
-  "size": 70809738,
-  "published_at": "2026-09-20T19:40:01Z"
+  "sha256": "ca7777d348afd50a816b3f2ccfb843f6c05e98a841a5cc362e3d21b7c227fd54",
+  "size": 70809854,
+  "published_at": "2026-09-20T20:25:16Z"
 }

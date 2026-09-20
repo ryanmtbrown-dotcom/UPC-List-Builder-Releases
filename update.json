@@ -1,10 +1,17 @@
 {
-  "version": "1.27",
-  "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-v1.27.apk",
-  "sha256": "ff632849a77c93f8c9438d2e3c2da5829112b990f2d8556d17de5d0783055e7b",
-  "size": 70827342,
-  "published_at": "2026-09-20T19:03:32Z",
+  "version": "1.37",
+  "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-v1.37.apk",
+  "sha256": "4909bc1b4ab097c2f2db28443fe480f2e2ddb04d4fb44457265d690e3c9e530c",
+  "size": 70827330,
+  "published_at": "2026-09-20T19:12:37Z",
   "releases": [
+    {
+      "version": "1.37",
+      "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-v1.37.apk",
+      "sha256": "4909bc1b4ab097c2f2db28443fe480f2e2ddb04d4fb44457265d690e3c9e530c",
+      "size": 70827330,
+      "published_at": "2026-09-20T19:12:37Z"
+    },
     {
       "version": "1.27",
       "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-v1.27.apk",

@@ -1,3 +1,6 @@
 # UPC List Builder Releases
 
-Public signed Android updater payload. Source code remains private.
+Current public updater payload for UPC List Builder v1.58.
+
+-  — updater metadata
+-  — current stable-signed APK

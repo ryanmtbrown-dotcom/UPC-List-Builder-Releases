@@ -1,7 +1,9 @@
 {
-  "version": "1.57",
-  "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "0a630b79a28843f27ad4a07b431f23611da1bc6030c33247ecf38aaf74ac7234",
-  "size": 28188334,
-  "published_at": "2026-09-21T07:42:39Z"
+  "version": "1.58",
+  "versionCode": 154,
+  "build": "v1.58-20260921-startup-auth-service-separation",
+  "url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
+  "sha256": "91c3a17632047b01e5003b71998231a2adfbcd939f8ba1a3210bff113be78fc4",
+  "size": 28188346,
+  "publishedAt": "2026-09-21T08:17:13Z"
 }

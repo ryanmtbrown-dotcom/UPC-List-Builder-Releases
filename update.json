@@ -1,9 +1,9 @@
 {
-  "version": "1.59",
-  "versionCode": 155,
-  "build": "v1.59-20260921-updater-manifest-apk-url-repair",
+  "version": "1.60",
+  "versionCode": 156,
+  "build": "v1.60-20260922-acenet-cross-origin-frame-recovery",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "18218165def119e32d0b7d842ce9a68ab25564e4769a68fa8f15453268800091",
-  "size": 28188350,
-  "publishedAt": "2026-09-21T08:34:06Z"
+  "sha256": "d984725db581f14404bce35ee32860c906955df8642ebeb261ea5b23f241e41a",
+  "size": 28188390,
+  "publishedAt": "2026-09-22T19:51:31Z"
 }

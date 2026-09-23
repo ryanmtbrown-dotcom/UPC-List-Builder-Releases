@@ -1,9 +1,9 @@
 {
-  "version": "1.71",
-  "versionCode": 167,
-  "build": "v1.71-20260923-updater-staging-repair",
+  "version": "1.72",
+  "versionCode": 168,
+  "build": "v1.72-20260923-startup-health-timeout-guard",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "ca390206c14a2719773c199535741b4eabc923af797f1e3b1f0660ce517e889a",
-  "size": 28189198,
-  "publishedAt": "2026-09-23T19:52:33Z"
+  "sha256": "20015630a14ec07dfc1165f7da46742d3c8ecccb5ad49cd6aa89fbf9358f92a6",
+  "size": 28189214,
+  "publishedAt": "2026-09-23T20:50:20Z"
 }

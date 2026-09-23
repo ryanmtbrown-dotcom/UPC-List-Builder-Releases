@@ -1,9 +1,9 @@
 {
-  "version": "1.67",
-  "versionCode": 163,
-  "build": "v1.67-20260922-acenet-startup-om-ru-fix",
+  "version": "1.68",
+  "versionCode": 164,
+  "build": "v1.68-20260923-serial-dispatch-overlap-lab",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "402b79526ffcc463917a7c54c5092ca4f20140ddbe30599e3f69c30754d535e3",
-  "size": 28189102,
-  "publishedAt": "2026-09-23T06:09:18Z"
+  "sha256": "096ee2a7d87bda2c5a9309d312ead93fd11df7902a81006ff0dce5bff7b49be2",
+  "size": 28189254,
+  "publishedAt": "2026-09-23T14:30:21Z"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.70",
-  "versionCode": 166,
-  "build": "v1.70-20260923-stable-dual-lane-enrichment",
+  "version": "1.71",
+  "versionCode": 167,
+  "build": "v1.71-20260923-updater-staging-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "3aabdce8f2cface337de023d55b7260089ac6a1859d9d99d90248adb8aeacf84",
-  "size": 28189210,
-  "publishedAt": "2026-09-23T19:29:53Z"
+  "sha256": "ca390206c14a2719773c199535741b4eabc923af797f1e3b1f0660ce517e889a",
+  "size": 28189198,
+  "publishedAt": "2026-09-23T19:52:33Z"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.61",
-  "versionCode": 157,
-  "build": "v1.61-20260922-unified-retailer-result-path",
+  "version": "1.62",
+  "versionCode": 158,
+  "build": "v1.62-20260922-parallel-lane-production-parser",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "9325b7327f1afbd9bbaa687584d1de4d2e6c7134cfd2ad4429b0145ea7cd0b4b",
-  "size": 28188350,
-  "publishedAt": "2026-09-23T02:06:58Z"
+  "sha256": "5b5aef434f2e13a1bb677249d2a3194c3361c21ed572211d07b6de9dd7d8ec54",
+  "size": 28188346,
+  "publishedAt": "2026-09-23T03:10:52Z"
 }

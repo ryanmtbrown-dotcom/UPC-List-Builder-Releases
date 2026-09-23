@@ -1,9 +1,9 @@
 {
-  "version": "1.69",
-  "versionCode": 165,
-  "build": "v1.69-20260923-ru-anr-repair",
+  "version": "1.70",
+  "versionCode": 166,
+  "build": "v1.70-20260923-stable-dual-lane-enrichment",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "db331f73b1a0eadf6c8017296c17a7b00da9d227c62e1bec53c32cb6823e3914",
-  "size": 28189238,
-  "publishedAt": "2026-09-23T15:09:53Z"
+  "sha256": "3aabdce8f2cface337de023d55b7260089ac6a1859d9d99d90248adb8aeacf84",
+  "size": 28189210,
+  "publishedAt": "2026-09-23T19:29:53Z"
 }

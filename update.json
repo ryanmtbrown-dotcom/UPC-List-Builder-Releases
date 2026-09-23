@@ -1,9 +1,9 @@
 {
-  "version": "1.72",
-  "versionCode": 168,
-  "build": "v1.72-20260923-startup-health-timeout-guard",
+  "version": "1.73",
+  "versionCode": 169,
+  "build": "v1.73-20260923-dual-lane-timing-instrumentation",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "2fc4fc81bab6d5e35a6a62f2ead0488fc4ca4fd727f8474c7c1539bfc817ab3f",
+  "sha256": "98e6e2c166ada30eb8dfaca214a4d4a26823b294b27ca877ea5a89df1e05c9e8",
   "size": 28205650,
-  "publishedAt": "2026-09-23T23:21:54Z"
+  "publishedAt": "2026-09-23T23:54:43Z"
 }

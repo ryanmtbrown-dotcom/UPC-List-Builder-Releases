@@ -1,9 +1,9 @@
 {
-  "version": "1.62",
-  "versionCode": 158,
-  "build": "v1.62-20260922-parallel-lane-production-parser",
+  "version": "1.63",
+  "versionCode": 159,
+  "build": "v1.63-20260922-acenet-protected-dual-lane-fix",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "aa47e5c92288cd00454c7f17be216cca0e4717b429011c32f7414a90dc9b2705",
-  "size": 28188426,
-  "publishedAt": "2026-09-23T03:26:58Z"
+  "sha256": "be1277064ddbc00839d8dd47f3b550692fd9c6ef32742758b5722df47e0e2b2b",
+  "size": 28188434,
+  "publishedAt": "2026-09-23T03:41:25Z"
 }

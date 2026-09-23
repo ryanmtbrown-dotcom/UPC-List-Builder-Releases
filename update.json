@@ -1,9 +1,9 @@
 {
-  "version": "1.65",
-  "versionCode": 161,
-  "build": "v1.65-20260922-parallel-full-item-timing",
+  "version": "1.66",
+  "versionCode": 162,
+  "build": "v1.66-20260922-parallel-iframe-html-diagnostic",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "0653e18ef36fb652b789ece5f5b885bae50933ddad843a122f7680bbfaebf478",
+  "sha256": "383510a7767dad2ca0aac69f5bc2c8f1360cdb02bcd76ff3be704cb7efabde31",
   "size": 28188518,
-  "publishedAt": "2026-09-23T04:21:35Z"
+  "publishedAt": "2026-09-23T04:53:51Z"
 }

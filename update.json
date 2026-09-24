@@ -1,9 +1,9 @@
 {
-  "version": "1.87",
-  "versionCode": 182,
-  "build": "v1.87-20260923-application-shell-contracts",
+  "version": "1.89",
+  "versionCode": 183,
+  "build": "v1.89-20260923-acenet-service-network-contracts",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "7cd0146d3e9e43ef1a7cf148fad7c6ae23aa99c0436f929036c4929d5c52bd84",
-  "size": 28219418,
-  "publishedAt": "2026-09-24T06:31:27Z"
+  "sha256": "7d20349408477788b712c3d3c01a1f2c7313e12591862c6cba9b76ff4dd0e4b4",
+  "size": 28221686,
+  "publishedAt": "2026-09-24T08:58:06Z"
 }

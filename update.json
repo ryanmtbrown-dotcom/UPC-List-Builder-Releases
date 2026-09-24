@@ -1,9 +1,9 @@
 {
-  "version": "1.90",
-  "versionCode": 184,
-  "build": "v1.90-20260924-lifecycle-list-purpose",
+  "version": "1.91",
+  "versionCode": 185,
+  "build": "v1.91-20260924-lifecycle-diagnostic-observability",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "ae88a67fb26d2000bf4dd2bf047bebcac5acac50470b798042560a05de11d541",
-  "size": 28221786,
-  "publishedAt": "2026-09-24T09:32:34Z"
+  "sha256": "8a37649e504ca3da527bd32dcc8a14a5ff6069b33a6a0542ab8d746c5506ca48",
+  "size": 28223090,
+  "publishedAt": "2026-09-24T15:58:46Z"
 }

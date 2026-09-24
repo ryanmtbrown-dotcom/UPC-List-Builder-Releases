@@ -1,9 +1,9 @@
 {
-  "version": "1.85",
-  "versionCode": 180,
-  "build": "v1.85-20260923-contract-foundation-batch",
+  "version": "1.86",
+  "versionCode": 181,
+  "build": "v1.86-20260923-diagnostic-ceiling-25mb",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "64f66e2ff6f328131bb92f40cd4c21b9a3aef21b88641752d13754b87aedc551",
-  "size": 28218182,
-  "publishedAt": "2026-09-24T05:58:43Z"
+  "sha256": "571118e6710c5592ecd3c12f03e53b038d8392ca6bedab7ab70ad6d71ab4b39e",
+  "size": 28218174,
+  "publishedAt": "2026-09-24T06:16:40Z"
 }

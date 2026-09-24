@@ -1,9 +1,9 @@
 {
-  "version": "1.95",
-  "versionCode": 189,
-  "build": "v1.95-20260924-startup-health-terminal-repair",
+  "version": "1.96",
+  "versionCode": 190,
+  "build": "v1.96-20260924-diagnostic-export-runtime-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "e353f6e1f40b2f2cbb7bbd5bdce05b8f851c504f6b9b5a043330951d5a7df6c5",
-  "size": 28225034,
-  "publishedAt": "2026-09-24T19:36:33Z"
+  "sha256": "ac3896d0d78981d80ea73d20c20ad32adb2e2152b3cf1ef444f4bf1c888e3600",
+  "size": 28225018,
+  "publishedAt": "2026-09-24T19:52:16Z"
 }

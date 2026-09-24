@@ -1,9 +1,9 @@
 {
-  "version": "1.79",
-  "versionCode": 175,
-  "build": "v1.79-20260923-startup-health-probe",
+  "version": "1.81",
+  "versionCode": 177,
+  "build": "v1.81-20260923-diagnostic-provenance",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "ec87ebd3bfb6869e4bb2d433f1912005c9a07ba2407a0ffbc3aeb00f27a63d19",
+  "sha256": "7ee482f2e2e92645cc5c0486dde361316ec9eb8afafb0502e91bd554b14a90a4",
   "size": 28212482,
-  "publishedAt": "2026-09-24T04:17:17Z"
+  "publishedAt": "2026-09-24T04:52:00Z"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.86",
-  "versionCode": 181,
-  "build": "v1.86-20260923-diagnostic-ceiling-25mb",
+  "version": "1.87",
+  "versionCode": 182,
+  "build": "v1.87-20260923-application-shell-contracts",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "571118e6710c5592ecd3c12f03e53b038d8392ca6bedab7ab70ad6d71ab4b39e",
-  "size": 28218174,
-  "publishedAt": "2026-09-24T06:16:40Z"
+  "sha256": "7cd0146d3e9e43ef1a7cf148fad7c6ae23aa99c0436f929036c4929d5c52bd84",
+  "size": 28219418,
+  "publishedAt": "2026-09-24T06:31:27Z"
 }

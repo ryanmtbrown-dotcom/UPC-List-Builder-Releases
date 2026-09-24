@@ -1,9 +1,9 @@
 {
-  "version": "1.97",
-  "versionCode": 191,
-  "build": "v1.97-20260924-multi-channel-ui-price-path-repair",
+  "version": "1.98",
+  "versionCode": 192,
+  "build": "v1.98-20260924-worker-pool-expansion-lab",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "674b4f41baec3dd771549a1c0bae56a7acc8b15d8011f6d93cb03879f60affd7",
-  "size": 28225954,
-  "publishedAt": "2026-09-24T20:40:58Z"
+  "sha256": "1784c782d4e4e68631fc484cd28e94cec4dfcbef000bc2a76f36572cee9503eb",
+  "size": 28226790,
+  "publishedAt": "2026-09-24T22:23:57Z"
 }

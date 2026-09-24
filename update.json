@@ -1,9 +1,9 @@
 {
-  "version": "1.82",
-  "versionCode": 177,
-  "build": "v1.82-20260923-startup-pricing-confirmation",
+  "version": "1.83",
+  "versionCode": 178,
+  "build": "v1.83-20260923-normal-item-search-sealed",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "2381ac26d71411c13fd159ba41a2412668a089a9edf6ce523be22b8fd23bfb4d",
-  "size": 28212574,
-  "publishedAt": "2026-09-24T05:11:57Z"
+  "sha256": "3064cf860296fd4586477030475df43b913ba5672b286458d17e81bc796a9493",
+  "size": 28214198,
+  "publishedAt": "2026-09-24T05:25:16Z"
 }

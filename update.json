@@ -1,9 +1,9 @@
 {
-  "version": "1.96",
-  "versionCode": 190,
-  "build": "v1.96-20260924-diagnostic-export-runtime-repair",
+  "version": "1.97",
+  "versionCode": 191,
+  "build": "v1.97-20260924-multi-channel-ui-price-path-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "ac3896d0d78981d80ea73d20c20ad32adb2e2152b3cf1ef444f4bf1c888e3600",
-  "size": 28225018,
-  "publishedAt": "2026-09-24T19:52:16Z"
+  "sha256": "674b4f41baec3dd771549a1c0bae56a7acc8b15d8011f6d93cb03879f60affd7",
+  "size": 28225954,
+  "publishedAt": "2026-09-24T20:40:58Z"
 }

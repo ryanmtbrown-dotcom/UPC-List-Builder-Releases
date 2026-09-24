@@ -1,9 +1,9 @@
 {
-  "version": "1.78",
-  "versionCode": 174,
-  "build": "v1.78-20260923-diagnostics-reconstruction",
+  "version": "1.79",
+  "versionCode": 175,
+  "build": "v1.79-20260923-startup-health-probe",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "fbcc04203fd2607a36ba24bfac1e8452d51ed347e70411f788d1dc946213cf3b",
-  "size": 28209234,
-  "publishedAt": "2026-09-24T03:33:23Z"
+  "sha256": "b8b4cc0517cd237eacb6c9bacfd2954cf37e15d8d4941a667e466b8e7da45843",
+  "size": 28209238,
+  "publishedAt": "2026-09-24T04:07:37Z"
 }

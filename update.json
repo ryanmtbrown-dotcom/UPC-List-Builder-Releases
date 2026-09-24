@@ -1,9 +1,9 @@
 {
-  "version": "1.74",
-  "versionCode": 170,
-  "build": "v1.74-20260923-startup-logout-race-repair",
+  "version": "1.75",
+  "versionCode": 171,
+  "build": "v1.75-20260923-restore-known-good-logout-contract",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "216c23f27a72830f425f4a7e26bd725644d8e9dabb7f5cc25fc4a84799696bcc",
-  "size": 28205646,
-  "publishedAt": "2026-09-24T00:36:22Z"
+  "sha256": "aba8c86dbb985a36952b96b6d86a8ac1db029c51c0f7a2687fadf4415fc0eaae",
+  "size": 28205666,
+  "publishedAt": "2026-09-24T01:06:54Z"
 }

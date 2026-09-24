@@ -1,9 +1,9 @@
 {
-  "version": "1.93",
-  "versionCode": 187,
-  "build": "v1.93-20260924-connectivity-current-startup-repair",
+  "version": "1.94",
+  "versionCode": 188,
+  "build": "v1.94-20260924-multichannel-lab-restructure",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "9cd007c02cdbea4d5fdbc23e0f17d9cae1c0b231c997755719013aa8a358fd32",
-  "size": 28223590,
-  "publishedAt": "2026-09-24T19:01:20Z"
+  "sha256": "6fa5a8929afeb26f5d96b92195832128c8ae663677e0e8a80e28bdf81502713b",
+  "size": 28225018,
+  "publishedAt": "2026-09-24T19:14:28Z"
 }

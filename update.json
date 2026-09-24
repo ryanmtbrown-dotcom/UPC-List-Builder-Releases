@@ -1,9 +1,9 @@
 {
-  "version": "1.92",
-  "versionCode": 186,
-  "build": "v1.92-20260924-diagnostic-health-repair",
+  "version": "1.93",
+  "versionCode": 187,
+  "build": "v1.93-20260924-connectivity-current-startup-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "aea1576982be3224d17843d2cf241da2aba617c5efba0eb3d39e4547b81ceedb",
-  "size": 28223278,
-  "publishedAt": "2026-09-24T16:54:42Z"
+  "sha256": "9cd007c02cdbea4d5fdbc23e0f17d9cae1c0b231c997755719013aa8a358fd32",
+  "size": 28223590,
+  "publishedAt": "2026-09-24T19:01:20Z"
 }

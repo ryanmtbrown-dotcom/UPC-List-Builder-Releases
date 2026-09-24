@@ -1,9 +1,9 @@
 {
-  "version": "1.84",
-  "versionCode": 179,
-  "build": "v1.84-20260923-master-library-sealed",
+  "version": "1.85",
+  "versionCode": 180,
+  "build": "v1.85-20260923-contract-foundation-batch",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "05fc1d45a5b85f8ff28f19b3d2c09845bce0c62fff4ff400777cf6c96162d8eb",
-  "size": 28216918,
-  "publishedAt": "2026-09-24T05:42:48Z"
+  "sha256": "64f66e2ff6f328131bb92f40cd4c21b9a3aef21b88641752d13754b87aedc551",
+  "size": 28218182,
+  "publishedAt": "2026-09-24T05:58:43Z"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.81",
+  "version": "1.82",
   "versionCode": 177,
-  "build": "v1.81-20260923-diagnostic-provenance",
+  "build": "v1.82-20260923-startup-pricing-confirmation",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "7ee482f2e2e92645cc5c0486dde361316ec9eb8afafb0502e91bd554b14a90a4",
-  "size": 28212482,
-  "publishedAt": "2026-09-24T04:52:00Z"
+  "sha256": "2381ac26d71411c13fd159ba41a2412668a089a9edf6ce523be22b8fd23bfb4d",
+  "size": 28212574,
+  "publishedAt": "2026-09-24T05:11:57Z"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.73",
-  "versionCode": 169,
-  "build": "v1.73-20260923-dual-lane-timing-instrumentation",
+  "version": "1.74",
+  "versionCode": 170,
+  "build": "v1.74-20260923-startup-logout-race-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "98e6e2c166ada30eb8dfaca214a4d4a26823b294b27ca877ea5a89df1e05c9e8",
-  "size": 28205650,
-  "publishedAt": "2026-09-23T23:54:43Z"
+  "sha256": "216c23f27a72830f425f4a7e26bd725644d8e9dabb7f5cc25fc4a84799696bcc",
+  "size": 28205646,
+  "publishedAt": "2026-09-24T00:36:22Z"
 }

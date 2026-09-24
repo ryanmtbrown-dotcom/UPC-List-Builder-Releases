@@ -1,9 +1,9 @@
 {
-  "version": "1.94",
-  "versionCode": 188,
-  "build": "v1.94-20260924-multichannel-lab-restructure",
+  "version": "1.95",
+  "versionCode": 189,
+  "build": "v1.95-20260924-startup-health-terminal-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "6fa5a8929afeb26f5d96b92195832128c8ae663677e0e8a80e28bdf81502713b",
-  "size": 28225018,
-  "publishedAt": "2026-09-24T19:14:28Z"
+  "sha256": "e353f6e1f40b2f2cbb7bbd5bdce05b8f851c504f6b9b5a043330951d5a7df6c5",
+  "size": 28225034,
+  "publishedAt": "2026-09-24T19:36:33Z"
 }

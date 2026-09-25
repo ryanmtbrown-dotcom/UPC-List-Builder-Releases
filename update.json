@@ -1,9 +1,9 @@
 {
-  "version": "1.99",
+  "version": "2.00",
   "versionCode": 193,
-  "build": "v1.99-20260924-disposable-price-worker-lab",
+  "build": "v2.00-20260924-disposable-price-worker-lab",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "7d8dca06f3f30c1e3b20d4e565d9ee17513abd4d0516fe8bb0805e6ad7aebd85",
-  "size": 28226010,
-  "publishedAt": "2026-09-25T00:48:35Z"
+  "sha256": "62a55d4bb429107bf2f7a259887f6dec4ce8a9de9dd4d77dcdc37144b8cc9abf",
+  "size": 28226018,
+  "publishedAt": "2026-09-25T01:04:39Z"
 }

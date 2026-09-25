@@ -1,9 +1,9 @@
 {
-  "version": "2.10",
-  "versionCode": 204,
-  "build": "v2.10-20260925-dsd-departments",
+  "version": "2.11",
+  "versionCode": 205,
+  "build": "v2.11-20260925-dsd-additional-upcs",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "444189c6e37b6e735d677d47b11a2bb9a042e44d1d2b0d77938fb6516e9c46a5",
-  "size": 28236505,
-  "publishedAt": "2026-09-25T05:25:55Z"
+  "sha256": "e3770b766c9dd6c6a4594a141c8d71cc907e62e220a52ce681db3ba225a13c95",
+  "size": 28238333,
+  "publishedAt": "2026-09-25T05:44:07Z"
 }

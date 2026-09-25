@@ -1,9 +1,9 @@
 {
-  "version": "2.04",
-  "versionCode": 198,
-  "build": "v2.04-20260924-price-worker-webview-bridge-compile-repair",
+  "version": "2.05",
+  "versionCode": 199,
+  "build": "v2.05-20260925-prewarmed-price-worker-pool-lab",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "1cfa3ff253deb071110140b98e5625d181ffbcdaca68e00dd06420b156727dc6",
-  "size": 28227194,
-  "publishedAt": "2026-09-25T02:31:11Z"
+  "sha256": "efb6e415aac1b4909dd83c0560e3e889078b942748e2b65e0790fc553583a04d",
+  "size": 28227398,
+  "publishedAt": "2026-09-25T02:58:16Z"
 }

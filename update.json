@@ -1,9 +1,9 @@
 {
-  "version": "2.06",
-  "versionCode": 200,
-  "build": "v2.06-20260925-dual-reusable-home-channel-lab",
+  "version": "2.07",
+  "versionCode": 201,
+  "build": "v2.07-20260925-ace-misc-master-library-only",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "336feb294e95f817d255af69a8c93c65a393f71e35ecf0051dbc2c03f7695e8f",
-  "size": 28227490,
-  "publishedAt": "2026-09-25T03:18:54Z"
+  "sha256": "21f962bf733b0a53ab063fc4afaffd6a815eff4b2e484077945e33ae804221b5",
+  "size": 28228054,
+  "publishedAt": "2026-09-25T03:37:13Z"
 }

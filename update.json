@@ -1,9 +1,9 @@
 {
-  "version": "2.15",
-  "versionCode": 209,
-  "build": "v2.15-20260925-direct-acenet-item-lookups",
+  "version": "2.16",
+  "versionCode": 210,
+  "build": "v2.16-20260925-result-continuation-early-poll",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "d7692ede4b73b993f6789fbb0c98b3614833b1df9db8573cee7b402616bab0ad",
+  "sha256": "da698b7686ec64d198a940e883b8993c3b190f2d4e62f9bbb90272804d913edd",
   "size": 28237969,
-  "publishedAt": "2026-09-25T06:55:29Z"
+  "publishedAt": "2026-09-25T07:09:57Z"
 }

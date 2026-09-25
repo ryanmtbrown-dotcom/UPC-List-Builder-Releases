@@ -1,9 +1,9 @@
 {
-  "version": "2.16",
-  "versionCode": 210,
-  "build": "v2.16-20260925-result-continuation-early-poll",
+  "version": "2.17",
+  "versionCode": 211,
+  "build": "v2.17-20260925-acenet-speed-health",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "da698b7686ec64d198a940e883b8993c3b190f2d4e62f9bbb90272804d913edd",
-  "size": 28237969,
-  "publishedAt": "2026-09-25T07:09:57Z"
+  "sha256": "cf30c38be741b72814acb703a5b50dd09a46d4b41e10603365f8586fff21cc2e",
+  "size": 28237961,
+  "publishedAt": "2026-09-25T07:36:33Z"
 }

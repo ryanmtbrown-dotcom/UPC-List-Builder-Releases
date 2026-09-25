@@ -1,9 +1,9 @@
 {
-  "version": "2.12",
-  "versionCode": 206,
-  "build": "v2.12-20260925-clean-release-install",
+  "version": "2.14",
+  "versionCode": 208,
+  "build": "v2.14-20260925-kotlin-compile-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "6b425a892e41c88877fec74ce1078cd881c319c92c53416de4afebdb8cc5e3a4",
-  "size": 28237841,
-  "publishedAt": "2026-09-25T05:59:56Z"
+  "sha256": "5bb7084c493a3d67e30784c991f33ca1d28969999e71cefee6e6bb819f313352",
+  "size": 28237693,
+  "publishedAt": "2026-09-25T06:40:24Z"
 }

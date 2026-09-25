@@ -1,9 +1,9 @@
 {
-  "version": "2.08",
-  "versionCode": 202,
-  "build": "v2.08-20260925-price-export-quota-nonfatal",
+  "version": "2.09",
+  "versionCode": 203,
+  "build": "v2.09-20260925-ace-new-dsd-items",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "33ff9e95390ede74dede8c58f072921455c1b3470d4931893147d0b6c9b9b5da",
-  "size": 28228122,
-  "publishedAt": "2026-09-25T04:11:47Z"
+  "sha256": "1cce3d24ba25c31b23d5715ed3381d3cb57c46b7e273072f36f3fe6dd0752bb6",
+  "size": 28236501,
+  "publishedAt": "2026-09-25T04:45:18Z"
 }

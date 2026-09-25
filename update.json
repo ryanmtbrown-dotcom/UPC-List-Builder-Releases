@@ -1,9 +1,9 @@
 {
-  "version": "2.07",
-  "versionCode": 201,
-  "build": "v2.07-20260925-ace-misc-master-library-only",
+  "version": "2.08",
+  "versionCode": 202,
+  "build": "v2.08-20260925-price-export-quota-nonfatal",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "21f962bf733b0a53ab063fc4afaffd6a815eff4b2e484077945e33ae804221b5",
-  "size": 28228054,
-  "publishedAt": "2026-09-25T03:37:13Z"
+  "sha256": "33ff9e95390ede74dede8c58f072921455c1b3470d4931893147d0b6c9b9b5da",
+  "size": 28228122,
+  "publishedAt": "2026-09-25T04:11:47Z"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "2.14",
-  "versionCode": 208,
-  "build": "v2.14-20260925-kotlin-compile-repair",
+  "version": "2.15",
+  "versionCode": 209,
+  "build": "v2.15-20260925-direct-acenet-item-lookups",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "5bb7084c493a3d67e30784c991f33ca1d28969999e71cefee6e6bb819f313352",
-  "size": 28237693,
-  "publishedAt": "2026-09-25T06:40:24Z"
+  "sha256": "d7692ede4b73b993f6789fbb0c98b3614833b1df9db8573cee7b402616bab0ad",
+  "size": 28237969,
+  "publishedAt": "2026-09-25T06:55:29Z"
 }

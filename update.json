@@ -1,9 +1,9 @@
 {
-  "version": "2.09",
-  "versionCode": 203,
-  "build": "v2.09-20260925-ace-new-dsd-items",
+  "version": "2.10",
+  "versionCode": 204,
+  "build": "v2.10-20260925-dsd-departments",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "1cce3d24ba25c31b23d5715ed3381d3cb57c46b7e273072f36f3fe6dd0752bb6",
-  "size": 28236501,
-  "publishedAt": "2026-09-25T04:45:18Z"
+  "sha256": "444189c6e37b6e735d677d47b11a2bb9a042e44d1d2b0d77938fb6516e9c46a5",
+  "size": 28236505,
+  "publishedAt": "2026-09-25T05:25:55Z"
 }

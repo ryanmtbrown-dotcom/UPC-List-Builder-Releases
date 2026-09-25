@@ -1,9 +1,9 @@
 {
-  "version": "2.05",
-  "versionCode": 199,
-  "build": "v2.05-20260925-prewarmed-price-worker-pool-lab",
+  "version": "2.06",
+  "versionCode": 200,
+  "build": "v2.06-20260925-dual-reusable-home-channel-lab",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "efb6e415aac1b4909dd83c0560e3e889078b942748e2b65e0790fc553583a04d",
-  "size": 28227398,
-  "publishedAt": "2026-09-25T02:58:16Z"
+  "sha256": "336feb294e95f817d255af69a8c93c65a393f71e35ecf0051dbc2c03f7695e8f",
+  "size": 28227490,
+  "publishedAt": "2026-09-25T03:18:54Z"
 }

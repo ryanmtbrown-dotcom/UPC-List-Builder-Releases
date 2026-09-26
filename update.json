@@ -1,9 +1,9 @@
 {
-  "version": "2.27",
-  "versionCode": 221,
-  "build": "v2.27-20260926-unknown-upc-identity-resolution",
+  "version": "2.28",
+  "versionCode": 222,
+  "build": "v2.28-20260926-identity-classification-queues",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "902d3e5e3a052444498e9234a1c44b5483287649e6f1e5668b56120a9b5180cc",
-  "size": 28237185,
-  "publishedAt": "2026-09-26T06:57:52Z"
+  "sha256": "aebdee9188fdc437267da68dea3ea40e06a2dba27cb754e8c8a44de952817e63",
+  "size": 28238933,
+  "publishedAt": "2026-09-26T07:20:22Z"
 }

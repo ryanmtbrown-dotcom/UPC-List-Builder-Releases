@@ -1,9 +1,9 @@
 {
-  "version": "2.20",
-  "versionCode": 214,
-  "build": "v2.20-20260926-upc-route-laboratory",
+  "version": "2.21",
+  "versionCode": 215,
+  "build": "v2.21-20260926-persistent-retailer-warmup",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "6d49e4804e60e15b8a8fb72611076ae1165e764aaeeff21a8191c32d75dca907",
-  "size": 28217237,
-  "publishedAt": "2026-09-26T04:06:30Z"
+  "sha256": "2556c72e15226af2a566c33640dde1410f200f26f5c897206a6a373911e13e6c",
+  "size": 28233869,
+  "publishedAt": "2026-09-26T04:40:48Z"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "2.18",
-  "versionCode": 212,
-  "build": "v2.18-20260925-progressive-acenet-price",
+  "version": "2.19",
+  "versionCode": 213,
+  "build": "v2.19-20260926-acenet-extraction-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "57e900a7380ecadc8baaf3b562b2b8406dc87bf40446018f68b9672b052c8bcf",
-  "size": 28236369,
-  "publishedAt": "2026-09-26T02:37:21Z"
+  "sha256": "d9109d99281c141864ba0099b2f7e303f86bec41c58e0221d1400d992b1affb8",
+  "size": 28236373,
+  "publishedAt": "2026-09-26T03:04:50Z"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "2.22",
-  "versionCode": 216,
-  "build": "v2.22-20260926-startup-warmup-orchestration-repair",
+  "version": "2.23",
+  "versionCode": 217,
+  "build": "v2.23-20260926-native-startup-state-gate-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "77552256df03766985564ff05391182835d63890800a7c8863cdbc1d9e46c9bb",
-  "size": 28233877,
-  "publishedAt": "2026-09-26T04:57:42Z"
+  "sha256": "a9feeeea006358540b8e8d6e33bd691533b92851541568a04e09db4880d5d427",
+  "size": 28233857,
+  "publishedAt": "2026-09-26T05:06:12Z"
 }

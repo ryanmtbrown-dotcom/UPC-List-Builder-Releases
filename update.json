@@ -1,9 +1,9 @@
 {
-  "version": "2.31",
-  "versionCode": 225,
-  "build": "v2.31-20260926-deferred-catalog-enrichment",
+  "version": "2.32",
+  "versionCode": 226,
+  "build": "v2.32-20260926-identity-system-closure",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "6eb1a877a29b1b260440f46240917f333af007aabe712ecc35708617f82e91d4",
-  "size": 28242245,
-  "publishedAt": "2026-09-26T07:58:40Z"
+  "sha256": "96e64b494c57748bf7b7b3274355e89e63a48e845016f2a34422493c4a18cc38",
+  "size": 28242249,
+  "publishedAt": "2026-09-26T09:13:26Z"
 }

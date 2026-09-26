@@ -1,9 +1,9 @@
 {
-  "version": "2.25",
-  "versionCode": 219,
-  "build": "v2.25-20260926-persistent-worker-lifecycle-repair",
+  "version": "2.26",
+  "versionCode": 220,
+  "build": "v2.26-20260926-product-identity-index-foundation",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "aa46d902482c7eb0f879623aff73e6c61c622bce8a1b90b502d2e462b000d21d",
-  "size": 28234017,
-  "publishedAt": "2026-09-26T05:44:59Z"
+  "sha256": "1832f75b8d7f0c6fc5a22a185c7250416ae661af50d3665977121cf844211425",
+  "size": 28235813,
+  "publishedAt": "2026-09-26T06:38:28Z"
 }

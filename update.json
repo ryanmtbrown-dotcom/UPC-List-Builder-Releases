@@ -1,9 +1,9 @@
 {
-  "version": "2.32",
-  "versionCode": 226,
-  "build": "v2.32-20260926-identity-system-closure",
+  "version": "2.33",
+  "versionCode": 227,
+  "build": "v2.33-20260926-database-viewer",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "96e64b494c57748bf7b7b3274355e89e63a48e845016f2a34422493c4a18cc38",
-  "size": 28242249,
-  "publishedAt": "2026-09-26T09:13:26Z"
+  "sha256": "42ac5f373832f853549c4d5fe9bccb6d08adb86f25d8a7a76844d70ee07f36f8",
+  "size": 28245165,
+  "publishedAt": "2026-09-26T09:43:41Z"
 }

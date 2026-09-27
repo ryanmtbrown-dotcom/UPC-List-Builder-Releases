@@ -1,9 +1,9 @@
 {
-  "version": "2.45",
-  "versionCode": 239,
-  "build": "v2.45-20260926-catalog-event-driven-breadcrumbs",
+  "version": "2.46",
+  "versionCode": 240,
+  "build": "v2.46-20260926-local-library-cost-normalization",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "06f6a1d6acca68f8348e949b02d41c1ca7f1117a014c33359fd9c2672785116e",
-  "size": 28246164,
-  "publishedAt": "2026-09-27T03:07:42Z"
+  "sha256": "b50c6ed64f920d1947ff238e35a7f982d979a5155a91dd8c01e02d7dd83445ad",
+  "size": 28246192,
+  "publishedAt": "2026-09-27T03:26:00Z"
 }

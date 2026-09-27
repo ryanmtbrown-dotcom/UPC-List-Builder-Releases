@@ -1,9 +1,9 @@
 {
-  "version": "2.44",
-  "versionCode": 238,
-  "build": "v2.44-20260926-catalog-live-forensics",
+  "version": "2.45",
+  "versionCode": 239,
+  "build": "v2.45-20260926-catalog-event-driven-breadcrumbs",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "0ab579ac91c1d9f6df6b5c1107f82b7abd02d2ef2127bc8fa49c803db3c3801e",
-  "size": 28246160,
-  "publishedAt": "2026-09-27T02:38:11Z"
+  "sha256": "06f6a1d6acca68f8348e949b02d41c1ca7f1117a014c33359fd9c2672785116e",
+  "size": 28246164,
+  "publishedAt": "2026-09-27T03:07:42Z"
 }

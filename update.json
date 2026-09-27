@@ -1,9 +1,9 @@
 {
-  "version": "2.48",
-  "versionCode": 242,
-  "build": "v2.48-20260926-sku-deadline-dialog-database-management",
+  "version": "2.49",
+  "versionCode": 243,
+  "build": "v2.49-20260926-mobile-identity-database-ui",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "53b968d32f6f9ac3b2216c33308905bb15ec3261f05e159974bcc2812aff35bc",
-  "size": 28249068,
-  "publishedAt": "2026-09-27T04:54:23Z"
+  "sha256": "1855cadc34c9ee03fbef90f1e0110440a9fa3b2fa6d8937f18273c3514fc3a3e",
+  "size": 28250324,
+  "publishedAt": "2026-09-27T05:54:40Z"
 }

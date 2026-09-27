@@ -1,6 +1,6 @@
 # UPC List Builder Releases
 
-Current public updater payload for UPC List Builder v2.43.
+Current public updater payload for UPC List Builder v2.44.
 
 -  — updater metadata
 -  — current stable-signed APK

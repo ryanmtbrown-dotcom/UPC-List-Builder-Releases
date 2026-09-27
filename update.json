@@ -1,9 +1,9 @@
 {
-  "version": "2.43",
-  "versionCode": 237,
-  "build": "v2.43-20260926-single-page-catalog-repair",
+  "version": "2.44",
+  "versionCode": 238,
+  "build": "v2.44-20260926-catalog-live-forensics",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "745c873f2cf1fefe9603c488cc8dbf531879dd9a6c4f2a1c4e7653e840e3fe75",
-  "size": 28246164,
-  "publishedAt": "2026-09-27T02:19:29Z"
+  "sha256": "0ab579ac91c1d9f6df6b5c1107f82b7abd02d2ef2127bc8fa49c803db3c3801e",
+  "size": 28246160,
+  "publishedAt": "2026-09-27T02:38:11Z"
 }

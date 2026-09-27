@@ -1,9 +1,9 @@
 {
-  "version": "2.47",
-  "versionCode": 241,
-  "build": "v2.47-20260926-bounded-general-list-acenet-resolution",
+  "version": "2.48",
+  "versionCode": 242,
+  "build": "v2.48-20260926-sku-deadline-dialog-database-management",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "5071eb17011b00e8da9ca9f02d0cbad1f59cbc5be00555ebeec28602198e018c",
+  "sha256": "53b968d32f6f9ac3b2216c33308905bb15ec3261f05e159974bcc2812aff35bc",
   "size": 28249068,
-  "publishedAt": "2026-09-27T04:46:30Z"
+  "publishedAt": "2026-09-27T04:50:00Z"
 }

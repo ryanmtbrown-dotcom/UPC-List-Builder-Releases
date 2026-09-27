@@ -1,9 +1,9 @@
 {
-  "version": "2.41",
-  "versionCode": 235,
-  "build": "v2.41-20260926-unified-add-to-library-batch",
+  "version": "2.42",
+  "versionCode": 236,
+  "build": "v2.42-20260926-end-to-end-batch-proof-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "5ee7333cb346999ac21afef39a396f78a34e8b39abbd16b637e9e28f42c815c9",
-  "size": 28246729,
-  "publishedAt": "2026-09-27T01:25:33Z"
+  "sha256": "052b214ab3a5d0e1e677f58c84ae7b131455acaedb814114b640ccb517e25a6d",
+  "size": 28246164,
+  "publishedAt": "2026-09-27T01:57:18Z"
 }

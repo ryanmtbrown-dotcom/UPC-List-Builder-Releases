@@ -1,9 +1,9 @@
 {
-  "version": "2.46",
-  "versionCode": 240,
-  "build": "v2.46-20260926-local-library-cost-normalization",
+  "version": "2.47",
+  "versionCode": 241,
+  "build": "v2.47-20260926-bounded-general-list-acenet-resolution",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "b88384be2e9e08f679ce0d9ae8328b1b73875f99d560918a1aa17148c438017a",
-  "size": 28246192,
-  "publishedAt": "2026-09-27T03:53:55Z"
+  "sha256": "13a0446ccbc3d6fd0ee04c1e2b6c86fcb77d60172e91fad9511afbdc25c74a9d",
+  "size": 28246216,
+  "publishedAt": "2026-09-27T03:58:51Z"
 }

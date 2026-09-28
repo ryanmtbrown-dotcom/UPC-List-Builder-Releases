@@ -1,9 +1,9 @@
 {
-  "version": "2.56",
-  "versionCode": 250,
-  "build": "v2.56-20260927-acenet-price-scope-repair",
+  "version": "2.57",
+  "versionCode": 251,
+  "build": "v2.57-20260927-upc-enrichment-misc-bulk",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "481b9b9aba8078b79e8c90bdfc9ace1e53b18573ab6dc8a0ead9cf4cf7cc8fd8",
-  "size": 28249676,
-  "publishedAt": "2026-09-28T06:04:31Z"
+  "sha256": "5d3618c9a68d443b12df03a78f50eafc9f023161b1c365c0dd421b26b072dec4",
+  "size": 28254928,
+  "publishedAt": "2026-09-28T06:56:57Z"
 }

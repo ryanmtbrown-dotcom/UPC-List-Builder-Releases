@@ -1,9 +1,9 @@
 {
-  "version": "2.55",
-  "versionCode": 249,
-  "build": "v2.55-20260927-startup-service-gate-repair",
+  "version": "2.56",
+  "versionCode": 250,
+  "build": "v2.56-20260927-acenet-price-scope-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "3a50799667856f717a167018d141ef739fe6ff93330d705fdf25788a324a8a5f",
-  "size": 28249596,
-  "publishedAt": "2026-09-28T04:39:47Z"
+  "sha256": "481b9b9aba8078b79e8c90bdfc9ace1e53b18573ab6dc8a0ead9cf4cf7cc8fd8",
+  "size": 28249676,
+  "publishedAt": "2026-09-28T06:04:31Z"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "2.53",
-  "versionCode": 247,
-  "build": "v2.53-20260927-retailer-session-bootstrap-repair",
+  "version": "2.54",
+  "versionCode": 248,
+  "build": "v2.54-20260927-retailer-sso-bootstrap-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "90f99fa6232bef16ab41be46ae31e27207b04b16e74cca17156cda82e3b75303",
-  "size": 28249272,
-  "publishedAt": "2026-09-28T02:54:14Z"
+  "sha256": "c208c7db5e2bbce24b3def34cc6c2b69c058f04dc1169e366da4fb8d0e153f7f",
+  "size": 28249276,
+  "publishedAt": "2026-09-28T03:57:24Z"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "2.52",
-  "versionCode": 246,
-  "build": "v2.52-20260927-startup-verification-repair",
+  "version": "2.53",
+  "versionCode": 247,
+  "build": "v2.53-20260927-retailer-session-bootstrap-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "91accf788e1d8c26cb9ed5d9e578b21377e28f5e43c885f0f26c2b03e5fd6dc3",
-  "size": 28249288,
-  "publishedAt": "2026-09-28T01:25:38Z"
+  "sha256": "4266ec6b53be34933cf4846b4d947581e47a5968c9c7758b8a9ab37ce672b59a",
+  "size": 28249272,
+  "publishedAt": "2026-09-28T01:52:44Z"
 }

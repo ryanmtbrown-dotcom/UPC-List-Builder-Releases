@@ -1,9 +1,9 @@
 {
-  "version": "2.57",
-  "versionCode": 251,
-  "build": "v2.57-20260927-upc-enrichment-misc-bulk",
+  "version": "2.58",
+  "versionCode": 252,
+  "build": "v2.58-20260927-exact-acenet-local-data-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "5d3618c9a68d443b12df03a78f50eafc9f023161b1c365c0dd421b26b072dec4",
-  "size": 28254928,
-  "publishedAt": "2026-09-28T06:56:57Z"
+  "sha256": "84729121de51f9ede4d70a9e7bae701f474be4ca728ae8eab1b60e656939ba9c",
+  "size": 28259328,
+  "publishedAt": "2026-09-28T07:57:54Z"
 }

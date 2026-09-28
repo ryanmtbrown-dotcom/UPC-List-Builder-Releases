@@ -1,9 +1,9 @@
 {
-  "version": "2.50",
-  "versionCode": 244,
-  "build": "v2.50-20260926-master-library-runtime-repair",
+  "version": "2.51",
+  "versionCode": 245,
+  "build": "v2.51-20260927-startup-engine-consolidation",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "09eda5fd66ab32e9e9ea65946b59323aa7b040f2049b1464033429c33fc38e01",
-  "size": 28250656,
-  "publishedAt": "2026-09-28T00:09:45Z"
+  "sha256": "71735347b7bad98b927b26b88d1fdee712d0eaa02bcbf77032775a3f90c5be74",
+  "size": 28249156,
+  "publishedAt": "2026-09-28T00:27:23Z"
 }

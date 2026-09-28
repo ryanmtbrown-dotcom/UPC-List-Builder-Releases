@@ -1,9 +1,9 @@
 {
-  "version": "2.51",
-  "versionCode": 245,
-  "build": "v2.51-20260927-upc-enrichment-lab-removal",
+  "version": "2.50",
+  "versionCode": 244,
+  "build": "v2.50-20260926-master-library-runtime-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "2146875dd95d1c52197e72c58d3753078d66920e319114489bef795712d2488e",
-  "size": 28250100,
-  "publishedAt": "2026-09-27T23:57:21Z"
+  "sha256": "09eda5fd66ab32e9e9ea65946b59323aa7b040f2049b1464033429c33fc38e01",
+  "size": 28250656,
+  "publishedAt": "2026-09-28T00:09:45Z"
 }

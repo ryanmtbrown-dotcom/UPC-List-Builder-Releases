@@ -1,9 +1,9 @@
 {
-  "version": "2.59",
-  "versionCode": 253,
-  "build": "v2.59-20260930-acenet-session-local-repair",
+  "version": "2.60",
+  "versionCode": 254,
+  "build": "v2.60-20260930-acenet-login-session-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "12eba95ddc793c3bde4528cf7d8342e5e5b8d357bfed3201e2f85718d76a1e9f",
+  "sha256": "c6a13ca25dee102ae09e78f29ec7f42d1bf77cbc8c9411b057e54bc3825ef875",
   "size": 28260364,
-  "publishedAt": "2026-10-01T03:31:04Z"
+  "publishedAt": "2026-10-01T04:43:43Z"
 }

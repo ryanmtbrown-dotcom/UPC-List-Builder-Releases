@@ -1,9 +1,9 @@
 {
-  "version": "2.63",
-  "versionCode": 257,
-  "build": "v2.63-20260930-normal-missing-sku-repair",
+  "version": "2.64",
+  "versionCode": 258,
+  "build": "v2.64-20260930-unified-local-resolution-trace",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "224a0a7c0146a633e6fefb037727e26613ab630588996fa7c8ae990ceb663880",
-  "size": 28277404,
-  "publishedAt": "2026-10-01T07:08:57Z"
+  "sha256": "59dd5d0d2d1f6474ec88ccdf94d0d2b1f67ce3dc664c5bcb4faf131998c1b7dd",
+  "size": 28282064,
+  "publishedAt": "2026-10-01T08:05:14Z"
 }

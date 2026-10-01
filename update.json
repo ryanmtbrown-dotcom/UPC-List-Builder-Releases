@@ -1,9 +1,9 @@
 {
-  "version": "2.58",
-  "versionCode": 252,
-  "build": "v2.58-20260927-exact-acenet-local-data-repair",
+  "version": "2.59",
+  "versionCode": 253,
+  "build": "v2.59-20260930-acenet-session-local-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "84729121de51f9ede4d70a9e7bae701f474be4ca728ae8eab1b60e656939ba9c",
-  "size": 28259328,
-  "publishedAt": "2026-09-28T07:57:54Z"
+  "sha256": "12eba95ddc793c3bde4528cf7d8342e5e5b8d357bfed3201e2f85718d76a1e9f",
+  "size": 28260364,
+  "publishedAt": "2026-10-01T03:31:04Z"
 }

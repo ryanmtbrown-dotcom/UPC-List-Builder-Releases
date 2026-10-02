@@ -1,9 +1,9 @@
 {
-  "version": "2.70",
-  "versionCode": 264,
-  "build": "v2.70-20261002-effective-catalog-resolver",
+  "version": "2.71",
+  "versionCode": 265,
+  "build": "v2.71-20261002-identifier-relationships",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "b5d6131885209a726b080c0227dfef69a7f1bb936fef2be3d42d16e0277fc20c",
-  "size": 28293294,
-  "publishedAt": "2026-10-02T20:56:12Z"
+  "sha256": "f9f99d86747b0ef2297a383c8e95a31117a5dac93154917101d9c41f40a3bb47",
+  "size": 28297566,
+  "publishedAt": "2026-10-02T22:14:41Z"
 }

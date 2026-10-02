@@ -1,9 +1,9 @@
 {
-  "version": "2.65",
-  "versionCode": 259,
-  "build": "v2.65-20261001-resolver-scope-promoted-local-repair",
+  "version": "2.66",
+  "versionCode": 260,
+  "build": "v2.66-20261001-classification-code-normalization",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "8938e57f0f751de5572a64f181c8b7c922ade952e53cabae6820bff1b15b96d3",
-  "size": 28284012,
-  "publishedAt": "2026-10-01T16:51:51Z"
+  "sha256": "1bbd0a4fc86cba3c65d8489138406fc3bc91e02e7062cfd921f9e4e19940e7b3",
+  "size": 28284132,
+  "publishedAt": "2026-10-02T03:17:15Z"
 }

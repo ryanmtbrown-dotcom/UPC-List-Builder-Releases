@@ -1,9 +1,9 @@
 {
-  "version": "2.67",
-  "versionCode": 261,
-  "build": "v2.67-20261002-data-backup-restore-safeguard",
+  "version": "2.68",
+  "versionCode": 262,
+  "build": "v2.68-20261002-shared-mechanisms-extraction",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "dc0a0a318eab80c113156abac6911a5bec85b2225e2f630571d2256da734de45",
-  "size": 28288799,
-  "publishedAt": "2026-10-02T19:22:40Z"
+  "sha256": "6ced630e88af3139b6347d9407b35d01332fd08c20f7d317309223f231452a4c",
+  "size": 28289844,
+  "publishedAt": "2026-10-02T19:49:44Z"
 }

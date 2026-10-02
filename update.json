@@ -1,9 +1,9 @@
 {
-  "version": "2.68",
-  "versionCode": 262,
-  "build": "v2.68-20261002-shared-mechanisms-extraction",
+  "version": "2.69",
+  "versionCode": 263,
+  "build": "v2.69-20261002-repository-facades",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "6ced630e88af3139b6347d9407b35d01332fd08c20f7d317309223f231452a4c",
-  "size": 28289844,
-  "publishedAt": "2026-10-02T19:49:44Z"
+  "sha256": "df27e47a3b203ac47d553bb525190ec5f7c3462be09461405d6ef43420400f9a",
+  "size": 28291948,
+  "publishedAt": "2026-10-02T20:12:53Z"
 }

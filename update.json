@@ -1,9 +1,9 @@
 {
-  "version": "2.72",
-  "versionCode": 266,
-  "build": "v2.72-20261002-acenet-client-broker",
+  "version": "2.73",
+  "versionCode": 267,
+  "build": "v2.73-20261002-acenet-session-retrieval",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "888597c4a953c5408e40b880ea93dd5137b4acd3b7ea303741d8981101250ca0",
-  "size": 28298787,
-  "publishedAt": "2026-10-02T22:44:01Z"
+  "sha256": "103f72eecd702fb6c0af301464a2090d586945fb81595d9541d405d18977c083",
+  "size": 28298795,
+  "publishedAt": "2026-10-03T00:22:43Z"
 }

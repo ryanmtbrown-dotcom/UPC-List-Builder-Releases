@@ -1,9 +1,9 @@
 {
-  "version": "2.73",
-  "versionCode": 267,
-  "build": "v2.73-20261002-acenet-session-retrieval",
+  "version": "2.74",
+  "versionCode": 268,
+  "build": "v2.74-20261002-catalog-refresh-policy",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "103f72eecd702fb6c0af301464a2090d586945fb81595d9541d405d18977c083",
-  "size": 28298795,
-  "publishedAt": "2026-10-03T00:22:43Z"
+  "sha256": "f0d7af8b639eff67303e5c5c0bda1c891a881ec2fe1605d27a4235876e55b90e",
+  "size": 28303453,
+  "publishedAt": "2026-10-03T01:53:39Z"
 }

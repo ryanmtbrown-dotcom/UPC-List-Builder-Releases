@@ -1,9 +1,9 @@
 {
-  "version": "2.78",
-  "versionCode": 272,
-  "build": "v2.78-20261003-stage9-physical-corrections",
+  "version": "2.79",
+  "versionCode": 273,
+  "build": "v2.79-20261003-ace-misc-live-refresh",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "66efd1eaa6fb16cf093d3f8ade5f59410d024c5b46288d5a40dd0c0d4653ef21",
-  "size": 28316631,
-  "publishedAt": "2026-10-03T07:56:53Z"
+  "sha256": "0ffb238bc9c49c2142306a7c40ae37093b146281333c215fbd6deeeaddd96d33",
+  "size": 28316603,
+  "publishedAt": "2026-10-03T17:47:01Z"
 }

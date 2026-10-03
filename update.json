@@ -1,9 +1,9 @@
 {
-  "version": "2.75",
-  "versionCode": 269,
-  "build": "v2.75-20261002-combined-master-export",
+  "version": "2.76",
+  "versionCode": 270,
+  "build": "v2.76-20261002-dsd-edit-import",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "18db4a2d3a2fce5f32262cae630abd85d809a26b55c4b7b2716d4675a50b1a52",
-  "size": 28306439,
-  "publishedAt": "2026-10-03T03:25:29Z"
+  "sha256": "b22b6370663dcec43260e52653d58101d0792d9cd69c00cdc26099776765f2a4",
+  "size": 28308963,
+  "publishedAt": "2026-10-03T04:02:24Z"
 }

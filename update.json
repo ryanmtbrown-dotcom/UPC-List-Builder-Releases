@@ -1,9 +1,9 @@
 {
-  "version": "2.77",
-  "versionCode": 271,
-  "build": "v2.77-20261002-stage9-deprecated-retirement",
+  "version": "2.78",
+  "versionCode": 272,
+  "build": "v2.78-20261003-stage9-physical-corrections",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "6fc1f67af11063021c40a4a86317e6eb554c4848c82c2a823dec15c1021319ce",
-  "size": 28296047,
-  "publishedAt": "2026-10-03T04:50:59Z"
+  "sha256": "66efd1eaa6fb16cf093d3f8ade5f59410d024c5b46288d5a40dd0c0d4653ef21",
+  "size": 28316631,
+  "publishedAt": "2026-10-03T07:56:53Z"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "2.88",
-  "versionCode": 282,
-  "build": "v2.88-20261004-export-format-controls",
+  "version": "2.89",
+  "versionCode": 283,
+  "build": "v2.89-20261004-acenet-background-resilience",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "bd62a2a4fa32d5377fa398b9deb1fb441b8be92b1e338e6f403967c5318b5c16",
-  "size": 28423614,
-  "publishedAt": "2026-10-04T21:09:50Z"
+  "sha256": "da31df1ce8c7097952370240dea15558728e2bbe97496f1a8ae03b3d19a40dfc",
+  "size": 28424190,
+  "publishedAt": "2026-10-04T22:00:44Z"
 }

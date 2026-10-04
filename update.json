@@ -1,9 +1,9 @@
 {
-  "version": "2.81",
-  "versionCode": 275,
-  "build": "v2.81-20261003-startup-bootstrap-order-repair",
+  "version": "2.82",
+  "versionCode": 276,
+  "build": "v2.82-20261004-acenet-startup-bridge-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "26945a2060aad2acb024f1f49a44999be3899a0f195c705e6b879bc48a70a8ab",
-  "size": 28397612,
-  "publishedAt": "2026-10-04T07:20:26Z"
+  "sha256": "7ce942dcee3c0b0ca860d0468a18415b449770f8e861e9b9325ddbff83ae7d7f",
+  "size": 28398680,
+  "publishedAt": "2026-10-04T07:55:25Z"
 }

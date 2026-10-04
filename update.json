@@ -1,9 +1,9 @@
 {
-  "version": "2.82",
-  "versionCode": 276,
-  "build": "v2.82-20261004-acenet-startup-bridge-repair",
+  "version": "2.83",
+  "versionCode": 277,
+  "build": "v2.83-20261004-bounded-acenet-startup-deep-diagnostics",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "7ce942dcee3c0b0ca860d0468a18415b449770f8e861e9b9325ddbff83ae7d7f",
-  "size": 28398680,
-  "publishedAt": "2026-10-04T07:55:25Z"
+  "sha256": "0a1450d563def13f27208b408b3f6f4a2d4312e1ebd078bbc0ce9f2981677e24",
+  "size": 28399116,
+  "publishedAt": "2026-10-04T08:29:58Z"
 }

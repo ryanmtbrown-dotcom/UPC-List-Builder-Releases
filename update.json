@@ -1,9 +1,9 @@
 {
-  "version": "2.85",
-  "versionCode": 279,
-  "build": "v2.85-20261004-portrait-result-layout",
+  "version": "2.86",
+  "versionCode": 280,
+  "build": "v2.86-20261004-ui-consistency",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "26ad7ce75b4ed661afc4ef6a795b1f9eb4fbf4e58e961d70c572db0d0b832e66",
-  "size": 28399724,
-  "publishedAt": "2026-10-04T17:33:51Z"
+  "sha256": "88312a191e96ec58a1b48abd22a72bc288a2796cc416ff5e3697852d489f19d1",
+  "size": 28400332,
+  "publishedAt": "2026-10-04T18:01:00Z"
 }

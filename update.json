@@ -1,9 +1,9 @@
 {
-  "version": "2.80",
-  "versionCode": 274,
-  "build": "v2.80-20261003-final-architecture-release",
+  "version": "2.81",
+  "versionCode": 275,
+  "build": "v2.81-20261003-startup-bootstrap-order-repair",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "82dbc031474b3a539c7e97c4073e21fd2cfa83d42ca2c9798983d18cb38fd4e6",
-  "size": 28397352,
-  "publishedAt": "2026-10-04T06:52:07Z"
+  "sha256": "26945a2060aad2acb024f1f49a44999be3899a0f195c705e6b879bc48a70a8ab",
+  "size": 28397612,
+  "publishedAt": "2026-10-04T07:20:26Z"
 }

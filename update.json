@@ -1,9 +1,9 @@
 {
-  "version": "2.89",
-  "versionCode": 283,
-  "build": "v2.89-20261004-acenet-background-resilience",
+  "version": "2.90",
+  "versionCode": 284,
+  "build": "v2.90-20261004-acenet-transport-recovery",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "da31df1ce8c7097952370240dea15558728e2bbe97496f1a8ae03b3d19a40dfc",
+  "sha256": "57ea737b86bac6608e6fa5b3302a958a95f9db4c0db8e444e101f401c7a13fbb",
   "size": 28424190,
-  "publishedAt": "2026-10-04T22:00:44Z"
+  "publishedAt": "2026-10-04T22:27:27Z"
 }

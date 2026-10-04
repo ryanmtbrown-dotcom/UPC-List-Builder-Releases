@@ -1,9 +1,9 @@
 {
-  "version": "2.83",
-  "versionCode": 277,
-  "build": "v2.83-20261004-bounded-acenet-startup-deep-diagnostics",
+  "version": "2.84",
+  "versionCode": 278,
+  "build": "v2.84-20261004-premium-portrait-presentation",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "0a1450d563def13f27208b408b3f6f4a2d4312e1ebd078bbc0ce9f2981677e24",
-  "size": 28399116,
-  "publishedAt": "2026-10-04T08:29:58Z"
+  "sha256": "23886b7f81c7702d4e65d1c0441c44a46bb806260b1f55691886c62bf952a4ce",
+  "size": 28399412,
+  "publishedAt": "2026-10-04T10:47:23Z"
 }

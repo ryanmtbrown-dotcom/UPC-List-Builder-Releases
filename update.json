@@ -1,9 +1,9 @@
 {
-  "version": "2.93",
-  "versionCode": 287,
-  "build": "v2.93-20261004-identity-work-queue-render",
+  "version": "2.94",
+  "versionCode": 288,
+  "build": "v2.94-20261004-startup-splash-progress",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "3a4d6a28ca50c8d8959575519c3b14689ebccd01998834dfd742afdb2d88f8cf",
-  "size": 28430730,
-  "publishedAt": "2026-10-05T04:45:28Z"
+  "sha256": "a8aa18c79d1e9ef2b14c7204bb85b0feed7b0d1a9228111338ecf46754385148",
+  "size": 28431050,
+  "publishedAt": "2026-10-05T05:08:29Z"
 }

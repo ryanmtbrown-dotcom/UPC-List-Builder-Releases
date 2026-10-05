@@ -1,9 +1,9 @@
 {
-  "version": "2.90",
-  "versionCode": 284,
-  "build": "v2.90-20261004-acenet-transport-recovery",
+  "version": "2.91",
+  "versionCode": 285,
+  "build": "v2.91-20261004-identity-resolution",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "57ea737b86bac6608e6fa5b3302a958a95f9db4c0db8e444e101f401c7a13fbb",
-  "size": 28424190,
-  "publishedAt": "2026-10-04T22:27:27Z"
+  "sha256": "2168b9d5339aa28d34731eaae81bcc0364c66f85b621c0fb28ce06f95ed6ed8a",
+  "size": 28430166,
+  "publishedAt": "2026-10-05T02:02:05Z"
 }

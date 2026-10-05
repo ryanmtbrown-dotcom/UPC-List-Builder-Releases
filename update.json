@@ -1,9 +1,9 @@
 {
-  "version": "2.92",
-  "versionCode": 286,
-  "build": "v2.92-20261004-acenet-not-found-classifier",
+  "version": "2.93",
+  "versionCode": 287,
+  "build": "v2.93-20261004-identity-work-queue-render",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "b4a23df0bf94ba1140fcf9441d9d7a896cdc7a3fedaf4c7992c8d172ba0e737d",
-  "size": 28430714,
-  "publishedAt": "2026-10-05T03:46:25Z"
+  "sha256": "3a4d6a28ca50c8d8959575519c3b14689ebccd01998834dfd742afdb2d88f8cf",
+  "size": 28430730,
+  "publishedAt": "2026-10-05T04:45:28Z"
 }

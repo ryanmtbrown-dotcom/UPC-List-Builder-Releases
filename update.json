@@ -2,8 +2,8 @@
   "version": "2.95",
   "versionCode": 289,
   "build": "v2.95-20261008-dsd-retail-pricing",
-  "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-v2.95-Candidate.apk",
+  "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
   "sha256": "32900f05e6cfaf7fbd567f2da4b59bc7059f3dd899c27631bb1ee17afadd7383",
   "size": 28433090,
-  "publishedAt": "2026-10-08T07:01:15Z"
+  "publishedAt": "2026-10-08T07:05:54Z"
 }

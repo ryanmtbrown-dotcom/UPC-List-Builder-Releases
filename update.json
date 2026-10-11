@@ -1,9 +1,9 @@
 {
-  "version": "3.04",
-  "versionCode": 298,
-  "build": "v3.04-20261011-diagnostic-stream-and-visual-acenet",
+  "version": "3.05",
+  "versionCode": 299,
+  "build": "v3.05-20261011-deep-evidence-zipped-diagnostics",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "7e890cadc0bbdbb6c4f031e27c158e195137447081e237dd9a23d9dde69a51ad",
-  "size": 28464112,
-  "publishedAt": "2026-10-11T05:29:09Z"
+  "sha256": "ffbd8c542f006d81f3e133afa0dd12d0b592fd9060e9f002f70d1ef30b5919d5",
+  "size": 28465168,
+  "publishedAt": "2026-10-11T06:34:40Z"
 }

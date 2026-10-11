@@ -1,9 +1,9 @@
 {
-  "version": "3.03",
-  "versionCode": 297,
-  "build": "v3.03-20261010-level2-nif-xlsx-hotfix",
+  "version": "3.04",
+  "versionCode": 298,
+  "build": "v3.04-20261011-diagnostic-stream-and-visual-acenet",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "7020814633651a423fca8d895c534d70978c62c24ac06414340a6f91cca4456a",
-  "size": 28460956,
-  "publishedAt": "2026-10-11T03:52:41Z"
+  "sha256": "7e890cadc0bbdbb6c4f031e27c158e195137447081e237dd9a23d9dde69a51ad",
+  "size": 28464112,
+  "publishedAt": "2026-10-11T05:29:09Z"
 }

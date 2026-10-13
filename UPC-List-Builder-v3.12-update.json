@@ -1,0 +1,9 @@
+{
+  "version": "3.12",
+  "versionCode": 306,
+  "build": "v3.12-20261013-planogram-explorer-correction",
+  "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
+  "sha256": "2d9c1300d871890e679ffc06d4fc7e831ec6ee77fceb47db4885fd5db180fe42",
+  "size": 28548657,
+  "publishedAt": "2026-10-13T08:19:08Z"
+}

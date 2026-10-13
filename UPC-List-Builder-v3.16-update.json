@@ -1,0 +1,9 @@
+{
+  "version": "3.16",
+  "versionCode": 310,
+  "build": "v3.16-20261013-planogram-explorer-differences",
+  "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
+  "sha256": "d32062a8f6fab93c8bad9305c521fd573a29900182c33cc53654715fe5d9ccf5",
+  "size": 28560872,
+  "publishedAt": "2026-10-13T18:23:25Z"
+}

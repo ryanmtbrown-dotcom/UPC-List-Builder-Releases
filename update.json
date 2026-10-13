@@ -1,9 +1,9 @@
 {
-  "version": "3.16",
-  "versionCode": 310,
-  "build": "v3.16-20261013-planogram-explorer-differences",
+  "version": "3.17",
+  "versionCode": 311,
+  "build": "v3.17-20261013-planogram-tag-list-handoff",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "d32062a8f6fab93c8bad9305c521fd573a29900182c33cc53654715fe5d9ccf5",
-  "size": 28560872,
-  "publishedAt": "2026-10-13T18:23:25Z"
+  "sha256": "f5cd197b82b271dc4d2047e3a9fadde77490ae7ec666a2760aa144be3f80bcae",
+  "size": 28564117,
+  "publishedAt": "2026-10-13T18:57:10Z"
 }

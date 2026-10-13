@@ -1,0 +1,9 @@
+{
+  "version": "3.08",
+  "versionCode": 302,
+  "build": "v3.08-20261012-ai-source-precision-compact-lookup",
+  "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
+  "sha256": "7c2e3e0eb23093d6d07f4b9f3cdce30a982207d7157d12a475767ee4181cd3dd",
+  "size": 28502203,
+  "publishedAt": "2026-10-13T01:53:25Z"
+}

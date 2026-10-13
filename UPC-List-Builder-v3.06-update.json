@@ -1,0 +1,9 @@
+{
+  "version": "3.06",
+  "versionCode": 300,
+  "build": "v3.06-20261012-location-import-lookup",
+  "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
+  "sha256": "da1d8db58e38d0ced2c06b9317b05daffb925e34a4961ada11e374031c51a61b",
+  "size": 28496095,
+  "publishedAt": "2026-10-12T21:08:47Z"
+}

@@ -1,0 +1,9 @@
+{
+  "version": "3.18",
+  "versionCode": 312,
+  "build": "v3.18-20261013-unified-planogram-verification",
+  "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
+  "sha256": "ced02d4d4aafea0fbc595d21feb644d2e79516f74dc7a1602f8571c3a0d0db0c",
+  "size": 28570822,
+  "publishedAt": "2026-10-13T19:56:23Z"
+}

@@ -1,9 +1,9 @@
 {
-  "version": "3.22",
-  "versionCode": 316,
-  "build": "v3.22-20261014-dsd-planogram-visual",
+  "version": "3.23",
+  "versionCode": 317,
+  "build": "v3.23-20261015-official-planogram-lookup",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "8c82094154b693e6a3e5b85be8edebc5d9697e8ee218ed9e16a94c84b1edfa4a",
-  "size": 28585934,
-  "publishedAt": "2026-10-15T04:56:49Z"
+  "sha256": "f4777572cb76796dbdfd19a9789b81d95f0e312bad509d3f2160a3481bb42762",
+  "size": 28588538,
+  "publishedAt": "2026-10-15T19:27:59Z"
 }

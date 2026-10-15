@@ -1,9 +1,9 @@
 {
-  "version": "3.20",
-  "versionCode": 314,
-  "build": "v3.20-20261014-startup-dependency-hotfix",
+  "version": "3.22",
+  "versionCode": 316,
+  "build": "v3.22-20261014-dsd-planogram-visual",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "f93c00bf2f00ec8c8453a387efd7e1ef44f8438512fb3065f0e33de93bd32460",
-  "size": 28579014,
-  "publishedAt": "2026-10-15T03:10:04Z"
+  "sha256": "8c82094154b693e6a3e5b85be8edebc5d9697e8ee218ed9e16a94c84b1edfa4a",
+  "size": 28585934,
+  "publishedAt": "2026-10-15T04:56:49Z"
 }

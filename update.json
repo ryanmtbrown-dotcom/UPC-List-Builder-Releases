@@ -1,9 +1,9 @@
 {
-  "version": "3.24",
-  "versionCode": 318,
-  "build": "v3.24-20261015-aisle-layout-management",
+  "version": "3.25",
+  "versionCode": 319,
+  "build": "v3.25-20261016-dsd-evidence-review",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "47d34d59e4c28a5794c90d553392eb20d9b5930fb5f2c1bd2174d84fbaf11319",
-  "size": 28593802,
-  "publishedAt": "2026-10-16T04:04:32Z"
+  "sha256": "6d5be94dcc9640b457ba0e918125a9023657538ece93801595055ec0bc72b605",
+  "size": 28594054,
+  "publishedAt": "2026-10-16T10:12:50Z"
 }

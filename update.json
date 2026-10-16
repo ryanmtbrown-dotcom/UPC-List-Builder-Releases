@@ -1,9 +1,9 @@
 {
-  "version": "3.23",
-  "versionCode": 317,
-  "build": "v3.23-20261015-official-planogram-lookup",
+  "version": "3.24",
+  "versionCode": 318,
+  "build": "v3.24-20261015-aisle-layout-management",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "f4777572cb76796dbdfd19a9789b81d95f0e312bad509d3f2160a3481bb42762",
-  "size": 28588538,
-  "publishedAt": "2026-10-15T19:27:59Z"
+  "sha256": "47d34d59e4c28a5794c90d553392eb20d9b5930fb5f2c1bd2174d84fbaf11319",
+  "size": 28593802,
+  "publishedAt": "2026-10-16T04:04:32Z"
 }

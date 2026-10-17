@@ -1,0 +1,9 @@
+{
+  "version": "3.28",
+  "versionCode": 322,
+  "build": "v3.28-20261016-planogram-aisle-diagnostic",
+  "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
+  "sha256": "54025230c514a06e470d5647caa46382fe50af366caf6b4cd80c29bd807131f9",
+  "size": 28604618,
+  "publishedAt": "2026-10-17T04:00:56Z"
+}

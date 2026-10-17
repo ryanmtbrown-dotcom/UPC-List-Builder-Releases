@@ -1,9 +1,9 @@
 {
-  "version": "3.35",
-  "versionCode": 329,
-  "build": "v3.35-20261017-acenet-medium-high-images",
+  "version": "3.36",
+  "versionCode": 330,
+  "build": "v3.36-20261017-settings-upc-enrichment",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "6d54d3b99eada7eb77d87801f1e45dabce2306440d29d06931f8153486ff8284",
-  "size": 28621705,
-  "publishedAt": "2026-10-17T20:11:11Z"
+  "sha256": "e6b7a6a4b28b4caea39a57baf1d25b6472db3f40bc2cbdd72a8367892dffc3a2",
+  "size": 28628209,
+  "publishedAt": "2026-10-17T21:16:10Z"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "3.37",
-  "versionCode": 331,
-  "build": "v3.37-20261017-resumable-planogram-upcs",
+  "version": "3.38",
+  "versionCode": 332,
+  "build": "v3.38-20261017-planogram-upc-history",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "e158548badc03c8a00e7df6e9c9d6568d5abc05aacd295aae6bcecf6e9a0614e",
-  "size": 28632752,
-  "publishedAt": "2026-10-17T21:56:08Z"
+  "sha256": "93e3a2f33500d3c6c900bf40dd3d56f1a7cf159092af29c39a152692ec79a8ba",
+  "size": 28634772,
+  "publishedAt": "2026-10-17T22:20:00Z"
 }

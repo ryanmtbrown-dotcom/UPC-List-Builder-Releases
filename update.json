@@ -1,9 +1,9 @@
 {
-  "version": "3.25",
-  "versionCode": 319,
-  "build": "v3.25-20261016-dsd-evidence-review",
+  "version": "3.26",
+  "versionCode": 320,
+  "build": "v3.26-20261016-dsd-sku-correction",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "6d5be94dcc9640b457ba0e918125a9023657538ece93801595055ec0bc72b605",
-  "size": 28594054,
-  "publishedAt": "2026-10-16T10:12:50Z"
+  "sha256": "33655787c7e90e47527806b14c86f538a4ac8afa45a5c2c98a47ecdfdf931c46",
+  "size": 28594070,
+  "publishedAt": "2026-10-17T01:38:04Z"
 }

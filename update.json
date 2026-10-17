@@ -1,9 +1,9 @@
 {
-  "version": "3.33",
-  "versionCode": 327,
-  "build": "v3.33-20261017-android-upgrade-versioncode",
+  "version": "3.34",
+  "versionCode": 328,
+  "build": "v3.34-20261017-offline-repair-acenet-thumbnails",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "10d4b6ded0fb13b2bec2e6725d20d2c674bb0b93da9ceb6d6be7cddffa10daec",
-  "size": 28615813,
-  "publishedAt": "2026-10-17T18:42:33Z"
+  "sha256": "16133ef3d3f2515b14812a50257c8a3dbfcabc5f4835b75caeb4bf9ca1514447",
+  "size": 28621745,
+  "publishedAt": "2026-10-17T19:43:49Z"
 }

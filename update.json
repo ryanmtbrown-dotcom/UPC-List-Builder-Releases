@@ -1,9 +1,9 @@
 {
-  "version": "3.26",
-  "versionCode": 320,
-  "build": "v3.26-20261016-dsd-sku-correction",
+  "version": "3.27",
+  "versionCode": 321,
+  "build": "v3.27-20261016-offline-price-check",
   "apk_url": "https://raw.githubusercontent.com/ryanmtbrown-dotcom/UPC-List-Builder-Releases/main/UPC-List-Builder-latest.apk",
-  "sha256": "33655787c7e90e47527806b14c86f538a4ac8afa45a5c2c98a47ecdfdf931c46",
-  "size": 28594070,
-  "publishedAt": "2026-10-17T01:38:04Z"
+  "sha256": "e0ea04a4438ffebee2ce27babfc967668e07da32d9b750ab10611ae390859e61",
+  "size": 28600438,
+  "publishedAt": "2026-10-17T03:25:36Z"
 }
